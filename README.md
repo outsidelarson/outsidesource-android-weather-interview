@@ -1,6 +1,6 @@
 # Outside Source Weather App
 
-## Implementation Goals
+## Implementation Goals (UPDATING)
 * Separation of concerns
 * Demonstrate extensible/scalable patterns
 * Implement the UI
